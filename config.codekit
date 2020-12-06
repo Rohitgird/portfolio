@@ -148,28 +148,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/2.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 68030,
-		"inputAbbreviatedPath": "\/img\/2.jpg",
-		"outputAbbreviatedPath": "\/img\/2.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/3.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 517714,
-		"inputAbbreviatedPath": "\/img\/3.jpg",
-		"outputAbbreviatedPath": "\/img\/3.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/img\/4.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
